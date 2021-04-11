@@ -1,0 +1,55 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ro.pub.cs.systems.eim.lab04.contactsmanager"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_CONTACTS" />
+11-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:4:5-5:59
+11-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:5:9-56
+12    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+12-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:6:5-7:60
+12-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:7:9-57
+13
+14    <application
+14-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:8:5-22:19
+15        android:allowBackup="true"
+15-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+16-->[com.android.support:support-compat:28.0.0] C:\Users\test_winPro\.gradle\caches\transforms-2\files-2.1\49dd2c14dcc57c7f4a0aa1d53483e871\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:10:9-43
+20        android:label="@string/app_name"
+20-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:11:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.ContactsManager" >
+24-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:14:9-53
+25        <activity android:name="ro.pub.cs.systems.eim.lab04.contactsmanager.graphicuserinterface.ContactsManagerActivity" >
+25-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:15:9-21:20
+25-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:15:19-79
+26            <intent-filter>
+26-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:16:13-20:29
+27                <action android:name="ro.pub.cs.systems.eim.lab04.contactsmanager.intent.action.ContactsManagerActivity" />
+27-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:17:17-124
+27-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:17:25-121
+28
+29                <category android:name="android.intent.category.DEFAULT" />
+29-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:19:17-76
+29-->D:\An4\sem2\eim\labs\lab04\ContactsManager\app\src\main\AndroidManifest.xml:19:27-73
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

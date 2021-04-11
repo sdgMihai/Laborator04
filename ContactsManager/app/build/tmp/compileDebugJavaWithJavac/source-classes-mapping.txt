@@ -1,0 +1,8 @@
+ro/pub/cs/systems/eim/lab04/contactsmanager/graphicuserinterface/ContactsManagerActivity.java
+ ro.pub.cs.systems.eim.lab04.contactsmanager.graphicuserinterface.ContactsManagerActivity
+ ro.pub.cs.systems.eim.lab04.contactsmanager.graphicuserinterface.ContactsManagerActivity$1
+ ro.pub.cs.systems.eim.lab04.contactsmanager.graphicuserinterface.ContactsManagerActivity$ButtonClickListener
+ro/pub/cs/systems/eim/lab04/contactsmanager/general/Constants.java
+ ro.pub.cs.systems.eim.lab04.contactsmanager.general.Constants
+ro/pub/cs/systems/eim/lab04/contactsmanager/BuildConfig.java
+ ro.pub.cs.systems.eim.lab04.contactsmanager.BuildConfig

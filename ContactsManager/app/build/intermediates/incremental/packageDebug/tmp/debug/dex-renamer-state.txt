@@ -1,0 +1,7 @@
+#Mon Mar 29 20:46:13 EEST 2021
+base.0=D\:\\An4\\sem2\\eim\\labs\\lab04\\ContactsManager\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\An4\\sem2\\eim\\labs\\lab04\\ContactsManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
